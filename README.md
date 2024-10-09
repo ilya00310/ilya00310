@@ -5,5 +5,4 @@
 В этой сфере вижу для себя большие возможности и перспективы.
 
 ### Мои контакты:
-| ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | **[ilya00310](https://t.me/Ilya_shikman)**|
-| ![Email]([https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white](https://home.imgsmail.ru/whiteline/assets/logo/dark/logo.svg?_1729329391371)) | **ilya_shikhman@mail.ru**|
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) : [ilya00310](https://t.me/Ilya_shikman)
