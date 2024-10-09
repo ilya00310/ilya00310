@@ -10,8 +10,14 @@
 ### В процессе освоения:
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
 
-### Мои контакты: 
+### Контакты: 
 |          ![Mail](https://home.imgsmail.ru/whiteline/assets/logo/dark/logo.svg?_1729329391371) | **ilya_shikhman@mail.ru** |
 |------------------------------------------------------------------------------------------------------------:|--------------------------------|
-| ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | **[ilya00310](https://t.me/Ilya_shikman)**             |
+| ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | **[ilya00310](https://t.me/Ilya_shikman)**|
 
+#[Игры разума](https://github.com/ilya00310/backend-project-44)
+
+### Проекты: 
+|          ![Mail](https://home.imgsmail.ru/whiteline/assets/logo/dark/logo.svg?_1729329391371) | **ilya_shikhman@mail.ru** |
+|------------------------------------------------------------------------------------------------------------:|--------------------------------|
+| ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | **[ilya00310](https://t.me/Ilya_shikman)**|
