@@ -7,7 +7,7 @@
 ### Навыки и язык
 <img src="https://img.shields.io/badge/javascript-483D8B?style=for-the-badge&logo=javascript&logoColor=yellow" /> <img src="https://img.shields.io/badge/git-483D8B?style=for-the-badge&logo=git&logoColor=rad" /> <img src="https://img.shields.io/badge/github-483D8B?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/vscode-483D8B?style=for-the-badge&logo=visualstudiocode&logoColor=blue" /> <img src="https://img.shields.io/badge/Jest-483D8B?style=for-the-badge&logo=Jest&logoColor=red" /> 
 ### В процессе освоения:
-<img src="https://www.postgresql.org/media/img/about/press/elephant.png?style=for-the-badge&logo=javascript&logoColor=yellow" /> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg?style=for-the-badge&logo=javascript&logoColor=yellow" /> 
 
 
 ### Мои контакты: 
