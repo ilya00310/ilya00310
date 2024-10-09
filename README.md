@@ -5,4 +5,4 @@
 В этой сфере вижу для себя большие возможности и перспективы.
 
 ### Мои контакты:
-[<img align="left" width="40px" height="40px" src="images/telegram.svg" />][telegram](https://t.me/Ilya_shikman)
+[<img align="left" width="40px" height="40px" src="images/telegram.svg" />][telegram]
