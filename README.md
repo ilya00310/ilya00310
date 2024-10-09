@@ -11,9 +11,10 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
 
 ### Проекты:           
-| Проект                                                                                                  | Описание                                          |Работал с  |                 
+| Проект                                                                                                  | Описание                                          |Работал с           |                 
 
 | [Вычислитель отличий](https://github.com/ilya00310/backend-project-46)| программа, выводящая разницу между двумя структурами данных в разных форматах |  библиотекой commander.js, readline-sync, парсингом, eslint, Github Actions, Codeclimate, Code Coverage,TDD
+
 [Загрузчик страниц](https://github.com/ilya00310/backend-project-4)     |Утилита командной строки, скачивающая  и сохраняющая страницу с ресурсами из интернета| Асинхронным кодом, HTTP, библиотекой axios, nock,debug. cherrio, TDD,lister
 
 ### Контакты: 
