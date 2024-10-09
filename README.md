@@ -7,7 +7,7 @@
 ### Навыки и язык
 <img src="https://img.shields.io/badge/javascript-483D8B?style=for-the-badge&logo=javascript&logoColor=yellow" /> <img src="https://img.shields.io/badge/git-483D8B?style=for-the-badge&logo=git&logoColor=rad" /> <img src="https://img.shields.io/badge/github-483D8B?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/vscode-483D8B?style=for-the-badge&logo=visualstudiocode&logoColor=blue" /> <img src="https://img.shields.io/badge/Jest-483D8B?style=for-the-badge&logo=Jest&logoColor=red" /> 
 ### В процессе освоения:
- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /><
 
 ### Мои контакты: 
 |          ![Mail](https://home.imgsmail.ru/whiteline/assets/logo/dark/logo.svg?_1729329391371) | **ilya_shikhman@mail.ru** |
